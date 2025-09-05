@@ -44,3 +44,7 @@ Overall, this task gave me practical experience in real-world API usage and taug
    python weather_data.py
    ```
 4. View the output graphs and results in your terminal or as saved files.
+## Output
+
+
+
